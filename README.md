@@ -1,7 +1,7 @@
 A Pharmacy Management System designed to help administrators and customers manage pharmacy operations efficiently. The system enables admins to add, update, view, and delete medicines, while customers can search, buy, and view purchase history.
 The Single Responsibility Principle was followed
 mainMenu() → entry point, calls login or signup.
-
+Code Organization:
 login(), signup() → authentication & registration.
 
 adminMenu() → admin options.
